@@ -9,7 +9,7 @@
   "author": "Tobias Løfgren",
   "license": "MIT",
   "dependencies": {
-    "pi-gpio": "0.0.8",
+    "rpi-gpio": "^0.7.0",
     "tmi.js": "^1.1.2"
   }
 }
