@@ -1,0 +1,15 @@
+{
+  "name": "twitch-controls-a-robot",
+  "version": "1.0.0",
+  "description": "Node server for controlling the TCAR robot.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Løfgren",
+  "license": "MIT",
+  "dependencies": {
+    "pi-gpio": "0.0.8",
+    "tmi.js": "^1.1.2"
+  }
+}
